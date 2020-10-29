@@ -13,7 +13,7 @@ UltraColor is a free chat and name color plugin offering support from 1.8 throug
 * Format support for both chat and name colors.
 * Reset a player’s color via the GUI menu and command regardless if they are online or not.
 * Customization of Menu items, names, and lores.
-* Supports Reloading.
+* Supports Reloading (meaning it has a reload command and should also support /reload).
 
 Releasing Soon!
 
