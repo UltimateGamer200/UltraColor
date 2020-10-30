@@ -17,7 +17,7 @@ Example: When a player uses /color, the console displays “Initializing Legacy 
 
 3.) If needed, upload your UltraColor folder and any errors in a site like pastebin.com.
 How to upload your folder?
-a) Right-click the folder and follow the instructions in the gif. For macOS right-click and select "Compress": 
-b) Then simply drag and drop the ZIP file into the issue field:
+a) Right-click the folder and select "Send To ->Compressed (zip folder)". For macOS right-click and select "Compress".
+b) Then simply drag and drop the ZIP file into the issue field.
 
 Thank you. Please remove this text and write your actual issue below.
