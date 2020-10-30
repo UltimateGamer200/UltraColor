@@ -15,5 +15,5 @@ UltraColor is a free chat and name color plugin offering support from 1.8 throug
 * Customization of Menu items, names, and lores.
 * Supports 4 languages with the ability to create your own locales.
 
-Releasing Soon!
+You are welcome to read the [UltraColor Wiki] where you can find lots of information on how to configure and use the plugin.
 
