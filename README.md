@@ -18,3 +18,5 @@ UltraColor is a free chat and name color plugin offering support from 1.8 throug
 You are welcome to read the [UltraColor Wiki](https://github.com/UltimateGamer200/UltraColor/wiki) where you can find lots of information on how to configure and use the plugin.
 
 If you have any issues to report, or questions to ask, see if those can be resolved quickly by yourself first. If that doesn't help, feel free to **fill in an issue**.
+
+Check out the spigot page [here](https://www.spigotmc.org/resources/ultracolor.85332/).
