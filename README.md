@@ -1,5 +1,6 @@
 <p align="center">
   Do you want to build your own plugins with features unique to only your server? Join MineAcademy to learn Java and plugin development and get a 25€ discount!
+  
   <a href="https://mineacademy.org/invite?rl=wwwt">
     <img src="https://i.imgur.com/SuIyaDV.png" />
   </a>
