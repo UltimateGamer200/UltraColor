@@ -1,10 +1,12 @@
 <p align="center">
-  Do you want to build your own plugins with features unique to only your server? Join MineAcademy to learn Java and plugin development and get a 25€ discount!
+  Do you want to build your own plugins with features unique to only your server?
   
   <a href="https://mineacademy.org/invite?rl=wwwt">
     <img src="https://i.imgur.com/SuIyaDV.png" />
   </a>
 </p>
+
+Join MineAcademy to learn Java and plugin development and get a 25€ discount!
 
 # UltraColor
 UltraColor is a free chat and name color plugin offering support from 1.8 through 1.16.3! Some features include:
